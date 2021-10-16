@@ -6,3 +6,12 @@ Covered:
 2.)Comments
 3.)Style and Color
 4.)Formatting a page
+5.)Links
+6.)Images
+7.)Videos and Youtube iFrames
+8.)Lists
+9.)Tables
+10.)Divs and Spans
+11.)Input and Forms
+12.)iFrames
+13.)Meta Tags
