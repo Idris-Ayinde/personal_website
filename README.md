@@ -15,3 +15,8 @@ Covered:
 11.)Input and Forms
 12.)iFrames
 13.)Meta Tags
+
+Covered
+.) index HTML=> Cover for "Enter Site"
+.) why is colspan not working
+.) Working on main.html
