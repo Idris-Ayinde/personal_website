@@ -20,3 +20,9 @@ Covered
 .) index HTML=> Cover for "Enter Site"
 .) why is colspan not working
 .) Working on main.html
+
+
+
+
+Functionality
+.)Add 2048 iFrame to website
